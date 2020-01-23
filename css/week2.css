@@ -1,8 +1,11 @@
 html {
-  font-family: "Lucida Grande", sans-serif;
-  color: #ffffff;
   background: #000000; 
  }
+
+body {
+  font-family: "Lucida Grande", sans-serif;
+  color: #ffffff;
+}
 
 
 h1 {
